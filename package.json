@@ -6,6 +6,10 @@
   "author": "Team. Callisto",
   "license": "MIT",
   "dependencies": {
-    "@wonderbot/format-date": "^1.0.0"
+    "@wonderbot/format-date": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callistoteam/format-date"
   }
 }
