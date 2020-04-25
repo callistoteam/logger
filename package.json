@@ -1,0 +1,11 @@
+{
+  "name": "@wonderbot/logger",
+  "version": "1.0.0",
+  "description": "Simple Logger for WonderBot",
+  "main": "index.js",
+  "author": "Team. Callisto",
+  "license": "MIT",
+  "dependencies": {
+    "@wonderbot/format-date": "^1.0.0"
+  }
+}
